@@ -1,0 +1,2 @@
+# iPhoneFullScreen
+iPhoneブラウザでフルスクリーン表示するテスト
